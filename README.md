@@ -1,7 +1,7 @@
 # opencart-delete-demo-data
 
 ## Preview
-![opencart-delete-demo-data-preview](/preview.jpg?raw=true "Preview image of the opencart delete demo data extension")
+![opencart-delete-demo-data-preview](/preview.png?raw=true "Preview image of the opencart delete demo data extension")
 
 ## Description
 
