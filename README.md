@@ -5,7 +5,7 @@
 
 ## Description
 
-This extension makes it possible to easily delete all the demo data at once before going into production. The available options are all the data pieces included in the opencart clean installation.I will consider adding support for any other data/files that you may want to remove.
+This extension makes it possible to easily delete all the demo data at once before going into production. The available options are all the data pieces included in the opencart clean installation. I will consider adding support for any other data/files that you may want to remove.
 
 ## Compatibility
 3.x
